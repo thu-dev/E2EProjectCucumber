@@ -1,0 +1,6 @@
+11:09:31.695 [TestNG-tests-4] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x751dd32828027c5c
+11:09:31.827 [TestNG-tests-3] INFO  resources.base - Driver is initialized
+11:09:54.268 [TestNG-tests-2] INFO  resources.base - Restricted User
+11:10:06.075 [TestNG-tests-4] INFO  resources.base - Navigation Bar is displayed
+11:10:18.180 [TestNG-tests-2] INFO  resources.base - Non Restricted User
+11:10:33.345 [TestNG-tests-3] INFO  resources.base - Navigated to Home page

@@ -1,0 +1,5 @@
+23:26:52.666 [TestNG-tests-3] INFO  resources.base - Navigated to Home page
+23:26:52.735 [TestNG-tests-3] INFO  resources.base - Successfully validated Text message
+23:26:52.965 [AsyncHttpClient-1-9] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameDecoder - Decoding WebSocket Frame opCode=8
+23:26:52.966 [AsyncHttpClient-1-9] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameDecoder - Decoding WebSocket Frame length=0
+23:26:58.216 [TestNG-tests-4] INFO  resources.base - Navigation Bar is displayed
